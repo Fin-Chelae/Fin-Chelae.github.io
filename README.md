@@ -1,1 +1,1 @@
-Welcome to *FinClaw*!
+Welcome to **FinClaw**!
