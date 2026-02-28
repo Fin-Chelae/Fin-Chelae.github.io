@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=G9091ikGoJ4">
-    <img src=assets/fin-claw.jpg>
+    <img src="assets/fin-claw.jpg">
   </a>
 </p>
   <p align="center">
