@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/fin-claw.jpg" alt="FinClaw" width="600"/>
+  <a href="https://www.youtube.com/watch?v=G9091ikGoJ4">
+    <img src=assets/fin-claw.jpg>
+  </a>
 </p>
   <p align="center">
     <Strong>Your AI-powered financial analyst — multi-market, multi-channel, always on.</strong>
